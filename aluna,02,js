@@ -1,0 +1,8 @@
+//DEFINIÇÂO DE VARIÀVEIS
+
+let pessoa = "nome da pessoa";
+let idadePessoa = 30;
+let alturaPessoa = 1.93;
+let statusPessoa = true;
+let salarioPessoa = 1500;
+let salarioBonus =
